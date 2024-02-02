@@ -3,6 +3,11 @@
 Live DEMO -- https://weather-dashb.netlify.app/
 
 github project file - https://github.com/Prawal63/Weather-Dashboard
+
+
+
+
+
 //   ----  My approach  --- 
 
 . The dashboard will consist of a main card for today's weather, displaying information such as temperature, wind speed, humidity, date and time, and the current weather condition (cloudy, sunny, overcast, foggy).
