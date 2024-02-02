@@ -4,6 +4,8 @@ Live DEMO -- https://weather-dashb.netlify.app/
 
 github project file - https://github.com/Prawal63/Weather-Dashboard
 
+Figma file link - https://www.figma.com/file/L7nb1oqxPRtKHJC5dUDKOb/Untitled?type=design&node-id=0%3A1&mode=design&t=0WqICMPAXhNbZPlC-1
+
 
 
 
